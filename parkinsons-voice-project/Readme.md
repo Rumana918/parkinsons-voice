@@ -383,7 +383,7 @@ The current project provides a strong foundation for developing an intelligent A
 Clone the repository:
 
 ```bash
-git clone https://github.com/Soumajit-Sadhukhan/parkinsons-voice-project.git
+git clone https://github.com/Rumana918/parkinsons-voice
 ```
 
 Navigate to the project directory:
