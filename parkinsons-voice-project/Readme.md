@@ -412,7 +412,7 @@ Run the Jupyter notebooks sequentially for:
 
 ## Author
 
-Soumajit Sadhukhan
+Rumana Parven
 
 Machine Learning & Data Science Enthusiast
 
