@@ -389,7 +389,7 @@ git clone https://github.com/Rumana918/parkinsons-voice
 Navigate to the project directory:
 
 ```bash
-cd parkinsons-voice-project
+cd parkinsons-voice
 ```
 
 Install dependencies:
